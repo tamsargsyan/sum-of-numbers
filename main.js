@@ -7,3 +7,8 @@ alert(x + y);
 let a = prompt("1st number") * 1;
 let b = prompt("2nd number") * 1;
 alert(a + b);
+
+// The third way
+let num = parseInt(prompt("1st"));
+let num1 = parseInt(prompt("2nd"));
+alert(num + num1);
